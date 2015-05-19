@@ -11,7 +11,7 @@ permalink:        /posts/:title/
 title:            TABISH SOHAIL
 tagline:          'thoughts.toString( )'
 description:      'Ramblings and opinionated thoughts on technology.'
-url:              http://anandmanisankar.com
+url:              http://hairy-hipster.github.io
 baseurl:          '/'
 paginate:         5
 excerpt_separator: '<br>'
